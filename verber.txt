@@ -14,7 +14,6 @@ flayer	all	all	yes
 gazer	all	all	yes
 giver	all	all	yes
 hater	all	all	yes
-headed	all	all	no
 keeper	all	all	yes
 killer	all	all	yes
 leader	all	all	yes
