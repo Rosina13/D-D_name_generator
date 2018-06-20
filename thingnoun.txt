@@ -1,0 +1,95 @@
+Word	Gender	Race	Serious
+a thousand corpses	all	all	yes
+a thousand suns	all	all	yes
+air	all	all	yes
+Amsterdam	all	all	no
+badgers	all	all	no
+bones	all	all	yes
+chains	all	all	yes
+chaos	all	all	yes
+children	all	all	yes
+Christmas	all	all	no
+the dark	all	all	yes
+darkness	all	all	yes
+days past	all	all	yes
+death	all	all	yes
+death	all	all	yes
+Denmark	all	all	no
+destruction	all	all	yes
+dolphins	all	all	no
+doom	all	all	yes
+dragons	all	all	yes
+dragons	all	all	yes
+Dun Dun DUN	all	all	no
+dwarves	all	all	yes
+earth	all	all	yes
+elves	all	all	yes
+evil	all	all	yes
+faith	all	all	yes
+fire	all	all	yes
+good	all	all	yes
+grace	all	all	yes
+grammar	all	all	no
+hate	all	all	yes
+hearts	all	all	yes
+heaven	all	all	yes
+hell	all	all	yes
+Hogwarts	all	all	no
+ice	all	all	yes
+infants	all	all	yes
+joy	all	all	yes
+justice	all	all	yes
+knowledge	all	all	yes
+lies	all	all	yes
+life	all	all	yes
+light	all	all	yes
+light	all	all	yes
+London	all	all	no
+love	all	all	yes
+men	all	all	yes
+metal	all	all	yes
+Mordor	all	all	yes
+morning	all	all	yes
+music	all	all	yes
+orcs	all	all	yes
+order	all	all	yes
+peace	all	all	yes
+poetry	all	all	yes
+pointy sticks	all	all	no
+power	all	all	yes
+public transportation	all	all	no
+puppies	all	all	no
+reason	all	all	yes
+robots	all	all	no
+science	all	all	yes
+silence	all	all	yes
+sin	all	all	yes
+snakes	all	all	yes
+song	all	all	yes
+souls	all	all	yes
+space	all	all	yes
+steel	all	all	yes
+storm	all	all	yes
+swords	all	all	yes
+tabletop tennis	all	all	no
+the abyss	all	all	yes
+the day	all	all	yes
+the dead	all	all	yes
+the living	all	all	yes
+the moon	all	all	yes
+the night	all	all	yes
+the sky	all	all	yes
+the stars	all	all	yes
+the streets	all	all	no
+the sun	all	all	yes
+the universe	all	all	yes
+the year	all	all	no
+time	all	all	yes
+truth	all	all	yes
+undergarments	all	all	no
+unicorns	all	all	yes
+war	all	all	yes
+women	all	all	yes
+worlds	all	all	yes
+yesteryear	all	all	yes
+you-know-what	all	all	no
