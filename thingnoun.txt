@@ -62,7 +62,7 @@ puppies	all	all	no
 reason	all	all	yes
 robots	all	all	no
 science	all	all	yes
-silence	all	all	yes
+silence	all	all	no
 sin	all	all	yes
 snakes	all	all	yes
 song	all	all	yes
