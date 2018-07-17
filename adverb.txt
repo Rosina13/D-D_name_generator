@@ -40,7 +40,7 @@ sarcastically	all	all	no
 scantly	all	all	no
 secretly	all	all	no
 severely	all	all	yes
-significantly	all	all	yes
+significantly	all	all	no
 somewhat	all	all	no
 subjectively	all	all	no
 sufficiently	all	all	no
