@@ -3,7 +3,7 @@ attractive	all	all	no
 awesome	all	all	no
 bald	M	all	no
 beautiful	all	all	yes
-blind	all	all	yes
+blind	all	all	no
 brave	all	all	yes
 brilliant	all	all	yes
 certified	all	all	no
@@ -12,13 +12,13 @@ comatose	all	all	no
 cynical	all	all	no
 daft	all	all	no
 dangerous	all	all	yes
-deaf	all	all	yes
+deaf	all	all	no
 defiant	all	all	yes
 derivative	all	all	no
 diabolical	all	all	yes
 dimwitted	all	all	no
 disabled	all	all	no
-downtrodden	all	all	yes
+downtrodden	all	all	no
 dressed	all	all	no
 drunk	all	all	no
 epic	all	all	yes
@@ -34,6 +34,7 @@ furry	all	dwarf	no
 gay	all	all	no
 hairy	M	all	no
 handsome	M	all	yes
+holy	all	all	yes
 incendiary	all	all	yes
 insane	all	all	yes
 insecure	all	all	no
@@ -57,6 +58,7 @@ stoic	all	all	yes
 stubborn	all	all	yes
 tall	all	elf	yes
 ugly	all	all	yes
+unholy	all	all	yes
 vain	all	all	yes
 vegetarian	all	all	no
 vile	all	all	yes
